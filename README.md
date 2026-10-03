@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of flarum-com/tags-under-discussion.** Not for installation: use [Packagist](https://packagist.org/packages/flarum-com/tags-under-discussion) or the [upstream repository](https://github.com/flarum-com/tags-under-discussion).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/flarum-com-tags-under-discussion/tree/archive/v1.1.0) · License: `mit` · Flarum: `^1.8.0`
+**2** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/flarum-com-tags-under-discussion/tree/archive/v1.1.0) · License: `mit` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2024-07-06 | `^1.8.0` | [Browse](https://github.com/flarchive/flarum-com-tags-under-discussion/tree/archive/v1.0.0) |
+| `1.1.0` | 2024-07-23 | `^1.8.0` | [Browse](https://github.com/flarchive/flarum-com-tags-under-discussion/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/flarum-com-tags-under-discussion.json](https://github.com/flarchive/archive-index/blob/main/packages/flarum-com-tags-under-discussion.json)
 
